@@ -1,11 +1,8 @@
-puplic class Aufgabe-1 {
-
-puplic static void main (string [] args) {
-  int Wort i = 0 
-  for (int i = 0; i<Wort; i++){
-    system.out.println(" "+i);
-        }
-
+puplic class Reserve {
+  puplic static void main (String [] args) {
+    for (int Nummer = args.length; Nummer>0; Nummmer--)   }
+    System.out.println(args[Rev-1]);
+          }
+       }
     }
-
-}
+    
